@@ -1,2 +1,22 @@
 # Work-Day-Scheduler
-Third Party APIs challenge. A work day schedule to keep up with things to do and plan out days.
+
+## Description
+
+A work day schedule to keep up with your work day. Helps you manage your time or plan out your day.
+
+## Installation
+
+N/A
+
+## Usage
+
+Displays work hours from 9am-5pm with time blocks that are color coded according to the time of day. Past is gray, present is red, and future is green.
+Each time block also includes an input field where user can write down notes or their schedule. Header of webpage also includes the current date.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
